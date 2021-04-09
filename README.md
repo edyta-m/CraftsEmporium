@@ -1,3 +1,3 @@
-# Crafts Emporium
+### Crafts Emporium
 
-## Preview site: 
+Preview site at : https://edyta-m.github.io/CraftsEmporium/index
